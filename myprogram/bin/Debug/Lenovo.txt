@@ -1,0 +1,2 @@
+(modelname:lenovo idaepad - processor:core i7 - GPU:gtx 1650 - RAM:12 - Hard:500 - price:15000)
+(modelname:lenovo legion - processor:core i7 - GPU:gtx 1650 - RAM:12 - Hard:1000 - price:25000)

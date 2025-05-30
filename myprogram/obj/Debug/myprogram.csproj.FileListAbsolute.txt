@@ -1,0 +1,14 @@
+E:\New folder\test\c#\myprogram\myprogram\bin\Debug\myprogram.exe.config
+E:\New folder\test\c#\myprogram\myprogram\bin\Debug\myprogram.exe
+E:\New folder\test\c#\myprogram\myprogram\bin\Debug\myprogram.pdb
+E:\New folder\test\c#\myprogram\myprogram\obj\Debug\myprogram.csproj.AssemblyReference.cache
+E:\New folder\test\c#\myprogram\myprogram\obj\Debug\myprogram.csproj.CoreCompileInputs.cache
+E:\New folder\test\c#\myprogram\myprogram\obj\Debug\myprogram.exe
+E:\New folder\test\c#\myprogram\myprogram\obj\Debug\myprogram.pdb
+E:\faculty\myprogram\myprogram\bin\Debug\myprogram.exe.config
+E:\faculty\myprogram\myprogram\bin\Debug\myprogram.exe
+E:\faculty\myprogram\myprogram\bin\Debug\myprogram.pdb
+E:\faculty\myprogram\myprogram\obj\Debug\myprogram.csproj.AssemblyReference.cache
+E:\faculty\myprogram\myprogram\obj\Debug\myprogram.csproj.CoreCompileInputs.cache
+E:\faculty\myprogram\myprogram\obj\Debug\myprogram.exe
+E:\faculty\myprogram\myprogram\obj\Debug\myprogram.pdb

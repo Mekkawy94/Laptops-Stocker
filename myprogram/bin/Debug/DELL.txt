@@ -1,0 +1,2 @@
+(modelname:dell inspiron - processor:ryzen 5 - GPU:gtx 500 - RAM:16 - Hard:500 - price:10000)
+(modelname:dell inspiron - processor:ryzen 5 - GPU:gtx 1660 - RAM:16 - Hard:1000 - price:15000)

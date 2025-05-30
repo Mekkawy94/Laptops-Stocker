@@ -1,0 +1,1 @@
+(modelname:hp 1212 - processor:core i7 - GPU:gtx 1660 - RAM:8 - Hard:1000 - price:12000)
