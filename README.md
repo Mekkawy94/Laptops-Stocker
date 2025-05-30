@@ -8,7 +8,7 @@ A C# console application for managing a laptop inventory. Designed to demonstrat
 
 - Add new laptops to stock
 - View all available laptops
-- Search laptops by model or brand
+- check laptops by model or brand
 - Update laptop details
 
 ---
