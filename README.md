@@ -39,3 +39,15 @@ A C# console application for managing a laptop inventory. Designed to demonstrat
 1. Clone the repo:
    ```bash
    git clone https://github.com/your-username/laptops-stocker.git
+
+
+## 📷 Screenshots
+
+![](Screenshots/Screenshot_1.png.png)
+![](Screenshots/Screenshot_2.png.png)
+![](Screenshots/Screenshot_3.png.png)
+![](Screenshots/Screenshot_4.png.png)
+![](Screenshots/Screenshot_5.png.png)
+![](Screenshots/Screenshot_6.png.png)
+![](Screenshots/Screenshot_7.png.png)
+
