@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Faculty\\myprogram\\",
+  "WorkspaceRootPath": "E:\\GitHub Projects\\Laptops-Stocker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F3C4286-299D-491B-827F-0A1EB83AC6B0}|myprogram\\myprogram.csproj|e:\\faculty\\myprogram\\myprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F3C4286-299D-491B-827F-0A1EB83AC6B0}|myprogram\\myprogram.csproj|e:\\github projects\\laptops-stocker\\myprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F3C4286-299D-491B-827F-0A1EB83AC6B0}|myprogram\\myprogram.csproj|solutionrelative:myprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Faculty\\myprogram\\myprogram\\Program.cs",
+              "DocumentMoniker": "E:\\GitHub Projects\\Laptops-Stocker\\myprogram\\Program.cs",
               "RelativeDocumentMoniker": "myprogram\\Program.cs",
-              "ToolTip": "E:\\Faculty\\myprogram\\myprogram\\Program.cs",
+              "ToolTip": "E:\\GitHub Projects\\Laptops-Stocker\\myprogram\\Program.cs",
               "RelativeToolTip": "myprogram\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
