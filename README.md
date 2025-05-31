@@ -43,11 +43,11 @@ A C# console application for managing a laptop inventory. Designed to demonstrat
 
 ## 📷 Screenshots
 
-![](Screenshots/Screenshot_1.png.png)
-![](Screenshots/Screenshot_2.png.png)
-![](Screenshots/Screenshot_3.png.png)
-![](Screenshots/Screenshot_4.png.png)
-![](Screenshots/Screenshot_5.png.png)
-![](Screenshots/Screenshot_6.png.png)
-![](Screenshots/Screenshot_7.png.png)
+![1](Screenshots/Screenshot_1.png.png)
+![2](Screenshots/Screenshot_2.png.png)
+![3](Screenshots/Screenshot_3.png.png)
+![4](Screenshots/Screenshot_4.png.png)
+![5](Screenshots/Screenshot_5.png.png)
+![6](Screenshots/Screenshot_6.png.png)
+![7](Screenshots/Screenshot_7.png.png)
 
